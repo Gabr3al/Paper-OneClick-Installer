@@ -1,7 +1,7 @@
 # Paper-OneClick-Installer
 A OneClick Installer for PaperMC
 
-#! If someone wants to add other versions feel free to do so. Just Contribute to the Project. I will add them to the main branch !
+# ! If someone wants to add other versions feel free to do so. Just Contribute to the Project. I will add them to the main branch !
 
 By using this script, you automatically agree to the Minecraft EULA.
 
