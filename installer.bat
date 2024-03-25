@@ -56,7 +56,7 @@ if "%version%" equ "1.8.8" (
 ) else if "%version%" equ "1.20.4" (
     echo Getting Dynamic Link...
     timeout /t 1 >nul
-    set "download_url=https://paper.gabr3al.dev"
+    set "download_url=http://paper.gabr3al.dev"
 )
 
 
